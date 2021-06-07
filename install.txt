@@ -1,0 +1,6 @@
+npm install express --save
+npm init
+npm install body-parser
+npm install --only=dev
+npm install cookie-parse --save
+npm install nodemon --save ==> nodemon tes.js
